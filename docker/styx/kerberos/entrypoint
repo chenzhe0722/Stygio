@@ -1,0 +1,4 @@
+#!/bin/sh
+
+if 
+krb5_util create -r STYX.COM
